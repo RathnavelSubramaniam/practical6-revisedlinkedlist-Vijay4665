@@ -1,5 +1,5 @@
 import java.util.LinkedList;
-public class ReversedLinkedList {
+public class ReverseLinkedList {
 
  public static void main(String[] args) {
 LinkedList<Character> originalList = new LinkedList<>();
